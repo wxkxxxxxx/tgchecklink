@@ -1,8 +1,6 @@
 #_ _ _ _,,_________________________
 #<><><>//-----------------------~`
 #
-# https://t.me/wxkxxxxxx
-#
 use strict;
 use warnings;
 use feature qw/say/;
