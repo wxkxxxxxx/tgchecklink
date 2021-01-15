@@ -4,6 +4,8 @@
 
 Telegram канал: @shadowbiznes
 
+Мой тг: @wxkxxxxxx
+
 Установка perl и git:
 
   termux:
