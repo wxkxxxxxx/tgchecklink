@@ -25,12 +25,11 @@ Telegram канал: @shadowbiznes
 
     https://git-scm.com/download/win
 
-
 Загрузка:
 
-  git clone https://github.com/wxkxxxxxx/tgchecklink/
+    git clone https://github.com/wxkxxxxxx/tgchecklink/
  
-  cd tgchecklink/
+    cd tgchecklink/
 
 Запуск
 
