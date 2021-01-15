@@ -12,9 +12,15 @@ Telegram канал: @shadowbiznes
 
   windows:
 
-    perl 64bit: https://strawberryperl.com/download/5.32.0.1/strawberry-perl-5.32.0.1-64bit.msi
-                perl 64bit: https://strawberryperl.com/download/5.32.0.1/strawberry-perl-5.32.0.1-32bit.msi
-    git: https://git-scm.com/download/win
+    perl 64bit:
+
+    https://strawberryperl.com/download/5.32.0.1/strawberry-perl-5.32.0.1-64bit.msi
+           
+     perl 64bit: 
+
+     https://strawberryperl.com/download/5.32.0.1/strawberry-perl-5.32.0.1-32bit.msi
+   
+     git: https://git-scm.com/download/win
 
 2. Загрузка:
 
