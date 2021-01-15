@@ -4,7 +4,7 @@
 
 Telegram канал: @shadowbiznes
 
-1. Установка perl и git:
+Установка perl и git:
 
   termux:
 
@@ -26,13 +26,13 @@ Telegram канал: @shadowbiznes
     https://git-scm.com/download/win
 
 
-2. Загрузка:
+Загрузка:
 
   git clone https://github.com/wxkxxxxxx/tgchecklink/
  
   cd tgchecklink/
 
-3. Запуск
+Запуск
 
     perl wxk.pl [файл с ссылками или список ссылок]
     
