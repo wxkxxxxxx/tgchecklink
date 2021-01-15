@@ -31,7 +31,7 @@ Telegram канал: @shadowbiznes
  
     cd tgchecklink/
 
-Запуск
+Запуск:
 
     perl wxk.pl [файл с ссылками или список ссылок]
     
