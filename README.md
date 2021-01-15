@@ -1,6 +1,7 @@
 # tgchecklink
 
 Чекер telegram ссылок.
+
 Telegram канал: @shadowbiznes
 
 1. Установка perl и git:
@@ -28,6 +29,7 @@ Telegram канал: @shadowbiznes
 2. Загрузка:
 
   git clone https://github.com/wxkxxxxxx/tgchecklink/
+ 
   cd tgchecklink/
 
 3. Запуск
