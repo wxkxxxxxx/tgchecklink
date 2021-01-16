@@ -4,7 +4,7 @@
 
 Telegram канал: https://t.me/shadowbiznes
 
-Мой тг: https://t.me/wxkxxxxxx
+
 
 Установка perl и git:
 
